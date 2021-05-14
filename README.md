@@ -7,4 +7,4 @@ The quizzes folder holds all of the quizzes that were taken for this course. The
 There is also a final project folder that holds the code for my final project. There is also an image in this folder that shows the workflow from this project from ArcGISPro.
 
 # Contact Information
-I can be reached at eric-mykleby@uiowa.edu and my CV can be found by opening the file titled: "Resume - RS.pdf in the main repository page.
+I can be reached at eric-mykleby@uiowa.edu and my CV can be found by opening the file titled: "Resume - RS.pdf" in the main repository page.
